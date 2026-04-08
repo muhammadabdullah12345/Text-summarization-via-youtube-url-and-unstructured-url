@@ -1,0 +1,12 @@
+streamlit
+python-dotenv
+langchain
+langchain-groq
+langchain-community==0.2.0
+langchain-core==0.2.0
+unstructured
+langchain-huggingface
+huggingface_hub
+validators
+youtube-transcript-api
+pytube
